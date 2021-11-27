@@ -1,0 +1,22 @@
+body {
+  font-family: monospace;
+}
+h1 {
+  font-weight: bolder;
+}
+h2 {
+  font-weight: bold;
+}
+.jumbotron {
+  background-color: #00cba9;
+  padding-top: 7rem;
+}
+#about {
+  padding-top: 7rem;
+}
+
+#showcase {
+  padding-top: 7rem;
+  background-color: #00cba9;
+  padding-bottom: 5rem;
+}
